@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+ 
+}
+.size-page {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.model-containers {
+  width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
